@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aydinlabs
-- 👀 I’m interested in designing and programming websites 😊
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on early projects that help me improve my Rails skills
+- 👀 I’m interested in designing and programming websites, Android Apps, Roblox & Unreal Engine Games 😊
+- 💞️ I’m looking to collaborate on early projects that help me improve my skills
 - 📫 How to reach me --> send me a message via email 
 
 <!---
